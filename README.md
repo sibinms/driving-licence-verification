@@ -27,14 +27,4 @@
 
 # API Documentation
 
-> API for uploading the driving licence and user profile image
-
-```
-POST: {baseUrl}/api/v1/driving-licence/upload-documents/
-```
-- Form data
-```
-driving_licence
-user_profile
-user_id
-```
+> Refer here : https://documenter.getpostman.com/view/17843916/2s83zmM3Bh
