@@ -3,8 +3,19 @@
 - Refer ID Analyzer core API here : https://developer.idanalyzer.com/coreapi_reference.html
 
 
-# Problem statement 
+# Why combined verification of driving license and user profile verification import ?
 
+- To verify the identify the user who is renting/leasing a vehicle
+- To check the authenticity of the documents supplied
+- To avoid uploading someone else document for getting authorised access
+
+# Where this is useful ?
+
+- This is useful in any industry where we are using driving licence as a verification document 
+
+
+# How this works ?
+![driving drawio](https://user-images.githubusercontent.com/32489487/195359772-6769adf8-984e-4f91-9a05-f3b00461301b.png)
 
 
 
