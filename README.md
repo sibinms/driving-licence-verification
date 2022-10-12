@@ -3,6 +3,15 @@
 - Refer ID Analyzer core API here : https://developer.idanalyzer.com/coreapi_reference.html
 
 
+
+
+
+
+
+
+
+> Project Setup
+
 - In order to work with the project you need the following environment variables
   - ID_ANALYZER_API_URL --> Can be obtained from the ID Analyzer portal
   - ID_ANALYZER_API_KEY --> Can be obtained from the ID Analyzer portal
